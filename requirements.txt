@@ -1,1 +1,6 @@
 httpx 
+streamlit
+python-dotenv
+pillow
+matplotlib
+python-docx
